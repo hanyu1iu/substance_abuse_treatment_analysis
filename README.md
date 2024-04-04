@@ -21,7 +21,6 @@ More findings and detailed analysis can be found in the [report](./Team_19_repor
 
 ## Data Sources
 The analysis is based on treatment records, additional datasets providing information on state and statistical areas, and the American Community Survey (ACS) data.
-Source data can be found in the [data folder](./data) 
 
 ## Modeling Results
 Our analysis employed machine learning techniques to predict treatment outcomes and identify significant factors contributing to treatment failure. Here are some key results from our modeling:
