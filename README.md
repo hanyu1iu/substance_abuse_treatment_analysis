@@ -1,6 +1,5 @@
 # substance_abuse_treatment_analysis
 
-## Project Overview
 This project aims to identify factors that contribute to the failure of treating substance abuse at the state level in the United States. By employing exploratory data analysis and machine learning techniques, including Support Vector Machines (SVMs) and Neural Networks (NNs), we uncover patterns between variables and treatment outcomes for different states. The analysis reveals that the type of substance and treatment service are the most significant variables in determining the outcome of treatment.
 
 This project was developed for the Merck Datathon by Team 19.
